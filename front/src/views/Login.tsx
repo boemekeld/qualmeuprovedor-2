@@ -101,7 +101,6 @@ const Login: FC = () => {
           </Box>
           <Button
             type="submit"
-            disabled={isLoginDisabled}
             variant="contained"
           >
             Login
